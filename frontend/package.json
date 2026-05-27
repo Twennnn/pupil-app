@@ -1,0 +1,16 @@
+{
+  "name": "pupil-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.30.3",
+    "recharts": "^3.8.1",
+    "vite": "^8.0.3"
+  },
+  "scripts": {
+    "dev": "vite",
+    "start": "vite"
+  }
+}
